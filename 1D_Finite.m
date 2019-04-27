@@ -1,4 +1,6 @@
 %%%%%%%%%%%%%% Schrodinger Eqaution for 1D finite potential well %%%%%%%%%%%%%% %%%%%%%%%%%%%%%%
+%Chandula nethmal
+%jan2019
 clc
 close all
 clear all
